@@ -1,4 +1,4 @@
-# CryOps - By Kaylie/xxv
+# CryOps - By the coolest monkeys in the jungle
 a Critical Ops Game wheelchair for the disabled.
 # Info:
 My discord tag: kaylie#8091 CryOps Server: https://discord.gg/pDEbcX9 Platforms: IOS ANDROID, PC 64 EMU
