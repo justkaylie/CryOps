@@ -26,6 +26,7 @@ RCS pc only using ahk base(recoil control system, legit)
 -Selective sensitivity
 
 (x32 or iOS) 
+-BV
 -radar
 -chams
 -nospread(detected 100%)
