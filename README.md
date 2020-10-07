@@ -2,6 +2,8 @@
 a Critical Ops Game wheelchair for the disabled.
 # Info:
 My discord tag: kaylie#8091 CryOps Server: https://discord.gg/pDEbcX9 Platforms: IOS ANDROID, PC 64 EMU
+# Videos:
+https://www.youtube.com/watch?v=LHAI0kTI5L8
 # Features:
 CryOps Features:
 ~~~
