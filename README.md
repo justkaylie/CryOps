@@ -1,6 +1,8 @@
-# CryOps
-a wheelchair for the disabled's who is very bad at this garbage.
-# Info
+# CryOps - By Kaylie/xxv
+a Critical Ops Game wheelchair for the disabled.
+# Info:
+My discord tag: kaylie#8091 CryOps Server: https://discord.gg/pDEbcX9 Platforms: IOS ANDROID, PC 64 EMU
+# Features:
 CryOps Features:
 ~~~
 (x64 root only n PC) 
